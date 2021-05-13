@@ -1,0 +1,7 @@
+<!--components/SearchInput/SearchInput.wxml-->
+<view class=".search_input">
+<!-- open-type="navigate" 跳转到非tbbar页面  -->
+  <navigator url="/pages/search/search" open-type="navigate">
+    搜索
+  </navigator>
+</view>
